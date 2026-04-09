@@ -97,5 +97,3 @@ Trading comps are the starting point of almost every IB pitch book and AM resear
 This project demonstrates that skill applied to Germany's 40 largest listed companies, which are the most relevant universe for roles at Frankfurt-based banks, asset managers, and M&A boutiques.
 
 ---
-
-*Built as part of a finance portfolio in preparation for a career in Investment Banking and Asset Management in Europe.*
