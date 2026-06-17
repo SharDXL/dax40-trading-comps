@@ -92,8 +92,8 @@ Run all cells top to bottom. The notebook pulls live data — prices and multipl
 
 ## Context
 
-Trading comps are the starting point of almost every IB pitch book and AM research note. The ability to pull, clean, and present a comps table cleanly — and to know *why* certain multiples don't apply to certain sectors — is a core technical skill for anyone targeting finance roles in Europe.
+Trading comps are the starting point of almost every IB pitch book and AM research note. The ability to pull, clean, and present a comps table cleanly — and to know *why* certain multiples don't apply to certain sectors — is a core technical skill.
 
-This project demonstrates that skill applied to Germany's 40 largest listed companies, which are the most relevant universe for roles at Frankfurt-based banks, asset managers, and M&A boutiques.
+This project demonstrates that skill applied to Germany's 40 largest listed companies, which are the most relevant universe for Frankfurt-based banks, asset managers, and M&A boutiques.
 
 ---
