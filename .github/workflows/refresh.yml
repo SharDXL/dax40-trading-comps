@@ -1,0 +1,33 @@
+name: Weekly data refresh
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # every Monday 06:00 UTC
+  workflow_dispatch: {}     # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull live data and regenerate outputs
+        run: python refresh_data.py
+
+      - name: Commit updated data and charts if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dax40_trading_comps_*.csv dax40_sector_medians.png dax40_scatter.png
+          git diff --cached --quiet || git commit -m "Automated weekly data refresh"
+          git push
