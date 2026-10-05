@@ -1,0 +1,41 @@
+Ticker,Company,Sector,EV (EUR bn),EBITDA (EUR bn),Revenue (EUR bn),Mkt Cap (EUR bn),EV/EBITDA (x),EV/Revenue (x),P/E (x),Data Flag
+SAP.DE,SAP SE,Technology,211.1,11.8,38.2,214.6,18.0,5.5,27.8,OK
+IFX.DE,Infineon Technologies,Technology,89.9,4.2,15.6,83.3,21.4,5.8,69.7,OK
+SHL.DE,Siemens Healthineers,Healthcare,54.9,4.0,23.2,41.9,13.7,2.4,19.0,OK
+SRT.DE,Sartorius AG,Healthcare,18.9,0.9,3.6,14.0,20.2,5.3,71.6,OK
+MRK.DE,Merck KGaA,Healthcare,68.7,5.6,21.1,59.4,12.3,3.2,25.1,OK
+BAYN.DE,Bayer AG,Healthcare,77.6,10.1,45.4,43.6,7.7,1.7,,OK
+FRE.DE,Fresenius SE,Healthcare,35.4,3.0,23.3,,11.7,1.5,16.0,OK
+QIA.DE,Qiagen NV,Healthcare,9.2,0.7,2.1,8.3,12.5,4.4,23.7,OK
+SIE.DE,Siemens AG,Industrials,259.6,12.5,81.1,210.2,20.7,3.2,27.5,OK
+ENR.DE,Siemens Energy,Industrials,115.7,4.6,41.8,123.0,25.1,2.8,46.6,OK
+RHM.DE,Rheinmetall AG,Industrials,48.2,2.3,11.4,45.0,20.9,4.2,37.4,OK
+MTX.DE,MTU Aero Engines,Industrials,20.0,1.4,9.2,20.1,14.2,2.2,21.6,OK
+KGX.DE,KION Group,Industrials,12.1,1.7,11.5,4.7,7.0,1.0,12.3,OK
+HEI.DE,Heidelberg Materials,Industrials,35.1,4.1,21.7,25.9,8.6,1.6,12.9,OK
+BNR.DE,Brenntag SE,Industrials,11.6,1.0,15.2,8.5,11.1,0.8,23.3,OK
+AIR.DE,Airbus SE,Industrials,151.1,9.0,77.0,150.1,16.8,2.0,25.3,OK
+BMW.DE,BMW AG,Automotive,135.8,13.8,128.0,32.6,9.8,1.1,5.2,EV adj. reqd
+MBG.DE,Mercedes-Benz Group,Automotive,123.4,12.0,129.5,38.1,10.3,1.0,7.6,EV adj. reqd
+CON.DE,Continental AG,Automotive,19.9,2.7,18.8,,7.3,1.1,,EV adj. reqd
+DTG.DE,Daimler Truck,Automotive,50.1,3.8,44.6,31.1,13.3,1.1,28.4,EV adj. reqd
+PAH3.DE,Porsche SE,Automotive,12.5,-0.1,,7.5,-217.4,,79.0,N/M – holding co
+P911.DE,Porsche AG,Automotive,43.8,3.6,35.3,39.1,12.1,1.2,46.6,OK
+VOW3.DE,Volkswagen AG,Automotive,262.7,19.3,321.7,34.0,13.6,0.8,6.5,EV adj. reqd
+ALV.DE,Allianz SE,Financials,58.7,21.5,119.4,,2.7,0.5,13.7,N/M – insurer
+MUV2.DE,Munich Re,Financials,66.6,,61.5,64.4,,1.1,9.6,N/M – insurer
+DBK.DE,Deutsche Bank,Financials,-31.8,,30.5,58.6,,-1.0,9.5,N/M – bank
+CBK.DE,Commerzbank,Financials,43.2,,11.9,42.8,,3.6,15.2,N/M – bank
+DB1.DE,Deutsche Boerse,Financials,56.6,3.3,7.7,51.9,16.9,7.3,24.8,OK
+HNR1.DE,Hannover Re,Financials,28.7,3.4,22.7,30.8,8.3,1.3,11.3,N/M – insurer
+VNA.DE,Vonovia SE,Financials,60.2,2.5,6.0,14.3,24.6,10.1,3.8,N/M – REIT
+BAS.DE,BASF SE,Chemicals,63.2,6.6,61.6,43.0,9.6,1.0,20.8,OK
+SY1.DE,Symrise AG,Chemicals,14.3,0.7,4.9,12.5,19.8,2.9,51.6,OK
+BEI.DE,Beiersdorf AG,Consumer,13.7,1.6,9.6,16.6,8.7,1.4,17.7,OK
+HEN3.DE,Henkel AG,Consumer,31.8,3.3,20.4,29.4,9.8,1.6,15.5,OK
+ZAL.DE,Zalando SE,Consumer,5.5,0.7,13.5,5.4,8.3,0.4,61.6,OK
+ADS.DE,Adidas AG,Consumer,30.0,2.7,26.0,24.9,11.3,1.2,18.2,OK
+RWE.DE,RWE AG,Energy,61.1,2.4,16.0,45.8,25.7,3.8,13.0,OK
+EOAN.DE,E.ON SE,Energy,89.8,10.0,75.2,44.5,9.0,1.2,13.2,OK
+DTE.DE,Deutsche Telekom,Telecom,297.8,42.7,123.2,128.1,7.0,2.4,15.0,OK
+DHL.DE,Deutsche Post DHL,Logistics,87.2,8.4,85.6,62.6,10.4,1.0,17.3,OK
